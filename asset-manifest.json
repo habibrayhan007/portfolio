@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8dc77eef.chunk.css",
+    "main.js": "/portfolio/static/js/main.8ab47de3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8ab47de3.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.9d8ebd7b.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.9d8ebd7b.js.map",
+    "static/css/2.4be38407.chunk.css": "/portfolio/static/css/2.4be38407.chunk.css",
+    "static/js/2.0f87ae28.chunk.js": "/portfolio/static/js/2.0f87ae28.chunk.js",
+    "static/js/2.0f87ae28.chunk.js.map": "/portfolio/static/js/2.0f87ae28.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/portfolio/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.8dc77eef.chunk.css.map": "/portfolio/static/css/main.8dc77eef.chunk.css.map",
+    "static/js/2.0f87ae28.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0f87ae28.chunk.js.LICENSE.txt",
+    "static/media/CodeThinking.00f6ce2c.jpg": "/portfolio/static/media/CodeThinking.00f6ce2c.jpg",
+    "static/media/agd.90099ffd.jpg": "/portfolio/static/media/agd.90099ffd.jpg",
+    "static/media/background.a9e04c43.jpg": "/portfolio/static/media/background.a9e04c43.jpg",
+    "static/media/binary.af4161a7.png": "/portfolio/static/media/binary.af4161a7.png",
+    "static/media/code.26b78c99.png": "/portfolio/static/media/code.26b78c99.png",
+    "static/media/lsats.841db6ab.png": "/portfolio/static/media/lsats.841db6ab.png",
+    "static/media/rayhan.e4c768f8.jpg": "/portfolio/static/media/rayhan.e4c768f8.jpg",
+    "static/media/rtod.61d7f086.PNG": "/portfolio/static/media/rtod.61d7f086.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d8ebd7b.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.0f87ae28.chunk.js",
+    "static/css/main.8dc77eef.chunk.css",
+    "static/js/main.8ab47de3.chunk.js"
+  ]
+}
