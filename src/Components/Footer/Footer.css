@@ -1,0 +1,20 @@
+.foot{
+    background: #181818;
+    
+    height: 80px;
+    width: 100%;
+    
+    opacity: 0.9;
+    display: flex;
+    justify-content: center;
+}
+
+div.foot ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin: 20px;
+    text-decoration: none;
+    
+}

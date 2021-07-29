@@ -1,0 +1,61 @@
+.YouTube {
+    background: black;
+    position: relative;
+}
+
+.YouTube .Background {
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    right: 0;
+    z-index: 0;
+}
+
+.YouTube .YouTubeContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.YouTube .Videos {
+    width: 70%;
+    z-index: 1;
+}
+
+.YouTube .paragraph {
+    width: 65%;
+    z-index: 1;
+}
+
+.YouTube .VideoContainer .Thumbnail img {
+    max-width: 489px;
+}
+
+.YouTube .VideoContainer .text {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+
+.YouTube .VideoContainer .Thumbnail {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    position: relative;
+}
+
+.YouTube .VideoContainer .Thumbnail .playButton {
+    position: absolute;
+    width: 24%;
+    left: 40%;
+    top: 30%;
+    cursor: pointer;
+}
+
+.YouTube .Videos .VideoContainer {
+    display: flex;
+    background: black;
+    margin-bottom: 5%;
+    height: 300px;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 1px white;
+}
